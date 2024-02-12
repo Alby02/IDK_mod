@@ -18,6 +18,7 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.GREEN_GEM)).entries((displayContext, entries) -> {
                         entries.add(ModItems.GREEN_GEM);
                         entries.add(ModBlocks.GREEN_GEM_BLOCK);
+                        entries.add(ModBlocks.GREEN_GEM_ORE);
                     })
                     .build());
 

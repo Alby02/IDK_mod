@@ -1,2 +1,3 @@
-// 1.20.1	2024-02-12T02:04:57.5571878	Seeeeees/Tags for minecraft:block
-390d2e21f87756866f503655aa85548b6033a548 data\minecraft\tags\blocks\mineable\pickaxe.json
+// 1.20.1	2024-02-12T15:56:51.3547773	Seeeeees/Tags for minecraft:block
+d4ed09b71982253ed72c0aae1d7686b9f65d8e4d data\minecraft\tags\blocks\mineable\pickaxe.json
+9894d4af15bb786d0278bb57d8b41e1718d49cdf data\minecraft\tags\blocks\needs_diamond_tool.json

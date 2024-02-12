@@ -18,8 +18,10 @@ import net.minecraft.util.Identifier;
 public class ModBlocks {
 
     public static final Block GREEN_GEM_BLOCK = registerBlock("greengemblock", new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK).sounds(BlockSoundGroup.AMETHYST_BLOCK)));
+    public static final Block GREEN_GEM_ORE = registerBlock("greengemore", new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK).sounds(BlockSoundGroup.AMETHYST_BLOCK)));
     private static void addItemToIngredientTab(FabricItemGroupEntries entries){
         entries.add(GREEN_GEM_BLOCK);
+        entries.add(GREEN_GEM_ORE);
     }
 
     private static Block registerBlock(String name, Block block ){
