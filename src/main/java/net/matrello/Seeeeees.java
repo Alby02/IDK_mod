@@ -2,6 +2,8 @@ package net.matrello;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.matrello.block.ModBlocks;
+import net.matrello.item.ModItemGroups;
 import net.matrello.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -20,6 +22,10 @@ public class Seeeeees implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Fabric world!");
+
 		ModItems.regiterModItems();
+		ModBlocks.regiterModBlocks();
+
+		ModItemGroups.setUp();
 	}
 }

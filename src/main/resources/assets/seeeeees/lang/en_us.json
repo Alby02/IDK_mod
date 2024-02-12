@@ -1,3 +1,9 @@
 {
-  "item.seeeeees.greengem": "Green Gem"
+  "item.seeeeees.greengem": "Green Gem",
+
+  "block.seeeeees.greengemblock": "Block of Green Gem",
+  "block.seeeeees.greengemblock2": "Block of Green Gem",
+
+
+  "itemgroup.gem": "Gemma gemmina"
 }

@@ -5,13 +5,14 @@
 	"name": "Seeeeees",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
-		"Me!"
+		"Alby02",
+		"Matrosna"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/seeeeees/icon.png",
 	"environment": "*",
 	"entrypoints": {
